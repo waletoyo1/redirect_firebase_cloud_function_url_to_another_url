@@ -13,3 +13,6 @@ How to redirect a cloud function url or other url to a custom url
     }
   ]
 }
+
+
+Then deploy : firebase deploy --only hosting
